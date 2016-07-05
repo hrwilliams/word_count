@@ -1,14 +1,13 @@
 class String
   define_method(:word_count) do |string_entered|
     word_entered = self.downcase()
-    string_to_array = string_entered.downcase().split(" ")
-    times_in_string = []
-    string_to_array.each do |each_string_word|
-      if word_entered == each_string_word
-        times_in_string = times_in_string.push(each_string_word)
+    string_to_array = string_entered.downcase().split().sort()
+    count = 0
+    string_to_array.each() do |string_word|
+      if string_word == word_entered
+        count += 1
       end
     end
-    result = times_in_string.length()
-    result
+    return count
   end
 end
