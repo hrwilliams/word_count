@@ -17,14 +17,19 @@ _This is a web application in which the user can enter a word and a sentence or 
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
+ *_Open a web browser_
+ *_<a href="https://morning-sea-84341.herokuapp.com/">Click here to open app in your browser on Heroku</a>.
+
 
 ## Known Bugs
 
 ## Technologies Used
-
-_ _
+_Ruby_
+_Sinatra_
+_Heroku_
 
 ### License
+
+**MIT License**
 
 Copyright (c) 2016 **_HR Williams_**
