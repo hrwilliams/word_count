@@ -18,15 +18,15 @@ _This is a web application in which the user can enter a word and a sentence or 
 ## Setup/Installation Requirements
 
  *_Open a web browser_
- *_<a href="https://morning-sea-84341.herokuapp.com/">Click here to open app in your browser on Heroku</a>.
+ *_<a href="https://morning-sea-84341.herokuapp.com/">Click here to open app in your browser on Heroku</a>_
 
 
 ## Known Bugs
 
 ## Technologies Used
-_Ruby_
-_Sinatra_
-_Heroku_
+*_Ruby_
+*_Sinatra_
+*_Heroku_
 
 ### License
 
